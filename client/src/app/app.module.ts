@@ -9,6 +9,8 @@ import { ActivityComponent } from './comps/activity/activity.component';
 import { ContainerComponent } from './comps/container/container.component';
 import { ReportsComponent } from './comps/reports/reports.component';
 import { ToolbarComponent } from './comps/framework/toolbar/toolbar.component';
+import { LoginComponent } from './comps/login/login.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -18,11 +20,13 @@ import { ToolbarComponent } from './comps/framework/toolbar/toolbar.component';
     ActivityComponent,
     ContainerComponent,
     ReportsComponent,
-    ToolbarComponent
+    ToolbarComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]
