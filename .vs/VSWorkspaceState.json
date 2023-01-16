@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\comps",
+    "\\client\\src\\app\\comps\\container",
+    "\\client\\src\\app\\comps\\framework",
+    "\\client\\src\\app\\comps\\framework\\designer",
+    "\\client\\src\\app\\comps\\login",
+    "\\service",
+    "\\service\\Properties"
+  ],
+  "SelectedNode": "\\service\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

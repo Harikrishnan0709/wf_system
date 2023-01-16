@@ -11,6 +11,7 @@ import { ReportsComponent } from './comps/reports/reports.component';
 import { ToolbarComponent } from './comps/framework/toolbar/toolbar.component';
 import { LoginComponent } from './comps/login/login.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { DesignerComponent } from './comps/framework/designer/designer.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     ContainerComponent,
     ReportsComponent,
     ToolbarComponent,
-    LoginComponent
+    LoginComponent,
+    DesignerComponent
   ],
   imports: [
     BrowserModule,

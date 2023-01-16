@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [map] (Schema)
+       [master] (Schema)
+       [map].[workflow_activity] (Table)
+       [map].[workflow_users] (Table)
+       [master].[events] (Table)
+       [master].[activity] (Table)
+       [master].[logic] (Table)
+       [master].[attribute] (Table)
+       [master].[entity] (Table)
+       [master].[properties] (Table)
+       [master].[controls] (Table)
+       [master].[workflow] (Table)
+       [master].[users] (Table)
+
+** Supporting actions

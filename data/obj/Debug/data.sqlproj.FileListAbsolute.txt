@@ -1,0 +1,10 @@
+C:\Users\Harik\source\repos\wf_system\data\bin\Debug\data.dacpac
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\data.sqlproj.AssemblyReference.cache
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\Model.xml
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\refactor.xml
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\postdeploy.sql
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\predeploy.sql
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\data.dll
+C:\Users\Harik\source\repos\wf_system\data\obj\Debug\data.pdb
+C:\Users\Harik\source\repos\wf_system\data\bin\Debug\data.dll
+C:\Users\Harik\source\repos\wf_system\data\bin\Debug\data.pdb
